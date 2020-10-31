@@ -738,10 +738,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Student studying LAw and IT. Currently working as a software engineer.
 - GitHub: [Atrolantra](https://github.com/Atrolantra)
 
-#### Name: [Eric Bryant](https://github.com/shmickle)
-- Place: Fairfax, Virginia, USA
+#### Name: [Samad Ali](https://github.com/SamadHFFC)
+- Place:Mumbai,India
 - Bio: Web Developer
-- GitHub: [shmickle](https://github.com/shmickle)
+- GitHub: [SamadHFFC](https://github.com/SamadHFFC)
 
 #### Name: [Eric Nor](https://github.com/thateric)
 - Place: Lake Forest, CA, USA
