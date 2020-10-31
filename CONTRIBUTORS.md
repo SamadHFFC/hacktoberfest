@@ -33,6 +33,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+ Name: Samad Ali
+Place: Mumabi, India
+Bio: Software Developer.
+GitHub: SamadHFFC
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
