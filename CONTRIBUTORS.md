@@ -1,3 +1,9 @@
+#### Name: Samad Ali
+ - Place: Mumabi, India
+ - Bio: Software Developer.
+ - GitHub: [SamadHFFC](https://github.com/SamadHFFC)
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
